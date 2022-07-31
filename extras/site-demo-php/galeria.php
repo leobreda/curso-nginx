@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="iso-8859-1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -24,7 +24,7 @@
             <img src="static/img/galeria/pizza.jpg"/></a>
     </p>
     <hr />
-    <p>CrÃ©ditos:
+    <p>Créditos:
         <br /><a href="https://br.freepik.com/fotos-gratis/pizza-de-calabresa-em-cima-da-mesa_7218716.htm" target="_blank">pizza.jpg por KamranAydinov - br.freepik.com</a>
         <br /><a href="https://br.freepik.com/fotos-gratis/teste-de-carro-sedan-vermelho-na-estrada_5895995.htm" target="_blank">carro.jpg por azerbaijan_stockers - br.freepik.com</a>
         <br /><a href="https://br.freepik.com/fotos-gratis/casa-isolada-no-campo_10025444.htm" target="_blank">casa.jpg por senivpetro - br.freepik.com</a>

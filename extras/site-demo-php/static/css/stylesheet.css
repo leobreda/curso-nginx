@@ -11,3 +11,8 @@ a{color:#990000;}
 p.galeria {text-align:center;;}
 p.galeria a{margin:20px;}
 p.galeria a img{width:150px;}
+
+ul.usuarios li{height:150px;display:block;overflow:visible;margin-bottom:20px;}
+ul.usuarios li img{float:left;width:110px;height:130px;margin-right:20px;}
+ul.usuarios.detalhe li img{width:220px;height:260px;}
+ul.usuarios li p a{font-size:120%;font-weight:bold;}
