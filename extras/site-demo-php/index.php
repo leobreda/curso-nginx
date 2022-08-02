@@ -18,10 +18,11 @@
     <hr />
     <p class="p_links">
         <a href="galeria.php">Galeria</a>
-        <a href="video.html">Videos</a>
-        <a href="download.html">Downloads</a>
-        <a href="delay5seg.php">Delay 5seg</a></p>
-        <a href="usuarios.php">Usuários</a></p>
+        <!-- <a href="video.html">Videos</a>
+        <a href="download.html">Downloads</a> -->
+        <a href="delay5seg.php">Delay 5seg</a>
+        <a href="usuarios.php">Usuários</a>
+        <a href="./admin/">Admin</a></p>
     <hr />
     <p><img src="static/img/lorem-ipsum2.png" style="float:left;margin:20px;" />Proin rutrum quis erat ut lobortis. Quisque gravida dolor eget arcu pharetra blandit. Vestibulum quis felis fermentum, placerat elit non, ultrices turpis. Pellentesque porttitor magna et accumsan consectetur. Vivamus ut lacinia neque, et tristique ante. Mauris porta, risus ac rhoncus pellentesque, sem leo vestibulum enim, eget accumsan urna purus at erat. Etiam sit amet lobortis purus. Etiam interdum, mauris sed pretium tristique, dui diam interdum lacus, sed ultrices erat elit non est. Cras euismod massa mi, vitae faucibus ipsum varius id. Phasellus quis dapibus enim, et faucibus turpis. Pellentesque leo augue, posuere vitae turpis sed, tincidunt iaculis magna.</p>
         
