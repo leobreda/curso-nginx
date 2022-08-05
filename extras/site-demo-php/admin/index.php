@@ -6,20 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="../static/css/stylesheet.css" />
-    <script type="text/javascript" src="../static/js/admin.js"></script>
 </head>
 <body style="width:500px;margin:20px auto;">
 
-    <h1>Admin</h1>
+    <h1>Bem vindo a área Admin!!!!</h1>
     
-    <form name="frmLogin" method="post" action="logado.html" onsubmit="javascript:return login();">
-
-    <p>Usuário: <input type="text" style="width:200px;" name="username" /></p>
-    <br />
-    <p>Senha: <input type="password" style="width:200px;" name="password" /></p>
-    <br />
-    <p style="text-align:center"><input type="button" value="Login" onclick="javascript:window.location.href='logado.html';"  /></p>
-  </form>
-
+    <p>Fusce sit amet est ullamcorper, luctus libero nec, luctus erat. Nam vestibulum pretium facilisis. </p>
+    <p><img src="../static/img/lorem-ipsum3.png" style="margin:20px;width:100px;" />
+       <img src="../static/img/lorem-ipsum4.png" style="margin:20px;width:100px;" />
+       <img src="../static/img/lorem-ipsum5.png" style="margin:20px;width:100px;" /></p>
+    
   </body>
 </html>
