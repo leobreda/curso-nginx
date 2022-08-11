@@ -18,8 +18,8 @@
     <hr />
     <p class="p_links">
         <a href="galeria.php">Galeria</a>
-        <!-- <a href="video.html">Videos</a>
-        <a href="download.html">Downloads</a> -->
+        <!-- <a href="videos.php">Videos</a>
+        <a href="downloads.php">Downloads</a> -->
         <a href="delay5seg.php">Delay 5seg</a>
         <a href="usuarios.php">Usuários</a>
         <a href="./admin/">Admin</a></p>
