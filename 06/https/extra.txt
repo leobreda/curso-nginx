@@ -1,0 +1,16 @@
+Redirecionou pra 127.0.0.1 ?
+
+#return 301 https://127.0.0.1:443;
+return 301 https://$host;
+
+Erro ERR_SSL_PROTOCOL_ERROR
+#listen 443;
+listen 443 ssl;
+
+erro ainda persiste?
+ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
+ssl_certificate     ubuntu.crt;
+ssl_certificate_key ubuntu.key;	
+
+certificados não encontrado?
+gera-certificados.sh
