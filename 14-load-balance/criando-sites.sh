@@ -10,6 +10,6 @@ kill -9 $(lsof -t -i:1001)
 kill -9 $(lsof -t -i:1002)
 kill -9 $(lsof -t -i:1003)
  
-php -S localhost:1001 1.html
-php -S localhost:1002 2.html
-php -S localhost:1003 3.html
+nohup php -S ubuntu:1001 1.html &> /dev/null &
+nohup php -S ubuntu:1002 2.html &> /dev/null &
+nohup php -S ubuntu:1003 3.html &> /dev/null &
