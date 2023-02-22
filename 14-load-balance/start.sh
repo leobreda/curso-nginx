@@ -9,6 +9,6 @@ nohup ./criando-sites.sh &> /dev/null &
 
 echo SUBINDO NGINX
 kill -9 $(lsof -t -i:1000)
-nginx -c /home/curso/08/php/1000.conf
+nginx -c /home/curso/14-load-balance/1000.conf
 
 while sleep 0.5; do curl http://localhost:1000 ; done
