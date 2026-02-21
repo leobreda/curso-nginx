@@ -4,6 +4,7 @@
 kill -9 $(lsof -t -i:8000) > /dev/null
 kill -9 $(lsof -t -i:8001) > /dev/null
 
+clear
 
 #######################################################################
 echo -e "\e[32mCriando o site galeria... \e[0m"

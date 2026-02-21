@@ -24,3 +24,8 @@ temas
 galeria fotos
 
 rewrite rule
+
+
+
+## Atalhos (nao obrigatorios)
+Configurando acesso root no ssh
